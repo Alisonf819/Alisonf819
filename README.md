@@ -31,7 +31,7 @@ Sou **Desenvolvedor Full Stack** com experiência no desenvolvimento e manutenç
 - Acompanhamento de casos técnicos e apoio a parceiros comerciais.
 
 ## 📈 Objetivo Profissional
-Estou sempre aberto a novos desafios e oportunidades de aprendizado, buscando crescer como **Desenvolvedor Full Stack .NET** e contribuir para soluções inovadoras.
+Estou sempre aberto a novos desafios e oportunidades de aprendizado, buscando crescer como **Desenvolvedor Full Stack** e contribuir para soluções inovadoras.
 
 ## 📫 Contato
 📧 E-mail: alisonf819@gmail.com  
