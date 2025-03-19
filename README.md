@@ -36,5 +36,5 @@ Estou sempre aberto a novos desafios e oportunidades de aprendizado, buscando cr
 ## 📫 Contato
 📧 E-mail: alisonf819@gmail.com  
 📍 Localização: Cajamar, SP  
-🔗 [LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/alison-ferreira-belau/))  
+🔗 [LinkedIn]([https://www.linkedin.com/in/alison-ferreira-belau/) 
 
